@@ -2,7 +2,7 @@
 If you havn't used any editing program before, I suggest that you go through this 2 min Tutorial before getting started with the good stuff.
 
 > **You do NOT need to read any text in this file, you can just follow along with the GIFs**.  
-Most of the text is just sarcastic
+Most of the text is just sarcastic.
 ### It is very Simple
 Just: 
 * Create
