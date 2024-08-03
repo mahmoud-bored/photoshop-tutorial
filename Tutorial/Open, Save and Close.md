@@ -87,7 +87,7 @@ Hello to you too fellow Human 🥳.
 #### THE MENU BAAR
 ![GIF Demonstrating How to open a File in Photoshop using the Menu Bar](<../assets/Tutorial/Photoshop - Open File, The Menu Bar.gif>)
 
-Again, Don't speak/wave/approach me and always keep a 5-meter distance between me and you.
+Again if you use this method, Don't speak/wave/approach me and always keep a 5-meter distance between me and you.
 
 ___
 
