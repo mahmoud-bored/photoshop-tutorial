@@ -30,7 +30,7 @@ Personally I like to start with a 1200 x 800 canvas, But it's up to you.
 
 **Oh and make sure it's calculating units by pixels so we don't get into trouble with Mother Photoshop later on.**
 
-![GIF Demonstrates Setting the Measuring Unit](<Photoshop - Set Canvase Measuring Unit.gif>)
+![GIF Demonstrates Setting the Measuring Unit](<../assets/Tutorial/Photoshop - Set Canvase Width and Height.gif>)
 
 > **Warning**: Do not forget to click the "**Create**" Button...
 ![GIT Demonstrates Pressing the Create Button](<../assets/Tutorial/Photoshop - Press Create File Button.gif>)
