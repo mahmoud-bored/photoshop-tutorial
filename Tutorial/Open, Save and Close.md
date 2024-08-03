@@ -75,7 +75,7 @@ Basically you have 3 ways to do this:
 #### Drag'n Drop
 ![GIF Demonstrates Dragging a file from the File Explorer to the Photoshop window](<../assets/Tutorial/Photoshop - Open File, Drag and Drop.gif>)
 
-Congrats, Now you're a Cool 16 years old kid :), Live happy my Friend.
+Congrats, Now you're a Cool 16 years old kid :), Live happy my Friend(Until you grow up).
 
 #### Keyboard Shortcut
 > Simply just press <kbd>Ctrl</kbd> + <kbd>O</kbd> and local your File, then click "**Open**"
