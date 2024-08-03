@@ -44,4 +44,51 @@ Personally I like to start with a 1200 x 800 canvas, But it's up to you.
 ___
 
 ### Save a Photoshop File:
-...
+If you did the First one I'm sure you can do this one too. If you can't, then get out of here. No one likes lazy people(except me, they love me... right? 🥺).
+
+> To save your work into a new photoshop file you can use <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>  
+Or if you have already saved it into a Photoshop file, you can use <kbd>Ctrl</kbd> + <kbd>S</kbd> to save it into that existing file.
+
+And if you're 74.6 years old or one these people who LOOOOVE to make life difficult, You can go to File > Save/Save As, then pick where you want to save it and click "**Save**".
+
+![GIF Demostrating how to save a Photoshop File](<../assets/Tutorial/Photoshop - Save a File.gif>)
+
+If you use this method and we meet by any chance in the future don't talk/wave/approach me and always be keen to keep a 5 meter distance between me and you, Thanks.  
+
+___
+
+### Close a Photoshop File
+Press the X Button next to the file name.
+![GIF Demonstrating how to close a photoshop File](<../assets/Tutorial/Photoshop - Close a File.gif>)
+
+[ TODO: Add a sarcastic joke, preferably one that Crushes all Hope and/or Ambition ]
+
+___
+
+### Open a Photoshop File
+
+Basically you have 3 ways to do this:
+* Drag'n Drop (For teenagers)
+* Keyboard Shortcut (For Normal/Abnormal People)
+* THE MENU BAR (....)
+
+#### Drag'n Drop
+![GIF Demonstrates Dragging a file from the File Explorer to the Photoshop window](<../assets/Tutorial/Photoshop - Open File, Drag and Drop.gif>)
+
+Congrats, Now you're a Cool 16 years old kid :), Live happy my Friend.
+
+#### Keyboard Shortcut
+> Simply just press <kbd>Ctrl</kbd> + <kbd>O</kbd> and local your File, then click "**Open**"
+![GIF Demonstrates Opening a File using the keyboard shortcut Ctrl + O](<../assets/Tutorial/Photoshop - Open File, Keyboard Shortcut.gif>)
+
+Hello to you too fellow Human 🥳.
+
+
+#### THE MENU BAAR
+![GIF Demonstrating How to open a File in Photoshop using the Menu Bar](<../assets/Tutorial/Photoshop - Open File, The Menu Bar.gif>)
+
+Again, Don't speak/wave/approach me and always keep a 5-meter distance between me and you.
+
+___
+
+> #### FINALLY, Now You can start doing someting useful. Hop on to the Next One
