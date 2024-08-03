@@ -1,8 +1,8 @@
 # The very very Basics
 If you havn't used any editing program before, I suggest that you go through this 2 min Tutorial before getting started with the good stuff.
 
-> **You do NOT need to read any text in this file, you can just follow along with the GIFs**.  
-Most of the text is just sarcastic.
+> **You do NOT need to read any text in this file, you can just follow along with the GIFs 😓**.  
+Most of the text is just sarcastic anyways.
 ### It is very Simple
 Just: 
 * Create
@@ -32,7 +32,8 @@ Personally I like to start with a 1200 x 800 canvas, But it's up to you.
 
 **Oh and make sure it's calculating units by pixels so we don't get into trouble with Mother Photoshop later on.**
 
-![GIF Demonstrates Setting the Measuring Unit](<../assets/Tutorial/Photoshop - Set Canvase Width and Height.gif>)
+![GIF Demonstrates Setting the Measuring Unit](<../assets/Tutorial/Photoshop - Set Canvase Measuring Unit.gif>)
+
 
 > **Warning**: Do not forget to click the "**Create**" Button...
 ![GIT Demonstrates Pressing the Create Button](<../assets/Tutorial/Photoshop - Press Create File Button.gif>)
