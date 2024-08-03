@@ -73,7 +73,7 @@ Basically you have 3 ways to do this:
 * THE MENU BAR (....)
 
 #### Drag'n Drop
-![GIF Demonstrates Dragging a file from the File Explorer to the Photoshop window](<"../assets/Tutorial/Open, Save and Close.md/Photoshop - Open File, Drag and Drop.gif">)
+![GIF Demonstrates Dragging a file from the File Explorer to the Photoshop window](<../assets/Tutorial/Open, Save and Close.md/Photoshop - Open File, Drag and Drop.gif>)
 
 Congrats, Now you're a Cool 16 years old kid :), Live happy my Friend(Until you grow up).
 
@@ -87,7 +87,7 @@ Hello to you too fellow Human 🥳.
 #### THE MENU BAAR
 ![GIF Demonstrating How to open a File in Photoshop using the Menu Bar](<../assets/Tutorial/Open, Save and Close.md/Photoshop - Open File, The Menu Bar.gif>)
 
-Again if you use this method, Don't speak/wave/approach me and always keep a 5-meter distance between me and you.
+**Oh and yes, if you pick this method of all the other ones, Don't speak/wave/approach me and always keep a 5-meter distance between me and you**.
 
 ___
 
