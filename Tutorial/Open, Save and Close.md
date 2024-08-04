@@ -58,7 +58,7 @@ If you use this method and we meet by any chance in the future don't talk/wave/a
 ___
 
 ### Close a Photoshop File
-Press the X Button next to the file name.
+> Press the X Button next to the file name.
 ![GIF Demonstrating how to close a photoshop File](<../assets/Tutorial/Open, Save and Close.md/Photoshop - Close a File.gif>)
 
 [ TODO: Add a sarcastic joke, preferably one that Crushes all Hope and/or Ambition ]
@@ -89,6 +89,10 @@ Hello to you too fellow Human 🥳.
 
 **Oh and yes, if you pick this method of all the other ones, Don't speak/wave/approach me and always keep a 5-meter distance between me and you**.
 
+
+#### I know there will be that guy who says "why don't you just double click it", and I'm here to tell you "IT'S NONE OF YOUR BUSINESS".
+
+![GIF Demonstrates Double clicking a file to open it](<../assets/Tutorial/Open, Save and Close.md/Photoshop - Open File, Double Click.gif>)
 ___
 
 > #### FINALLY, Now You can start doing someting useful. Hop on to the Next One
