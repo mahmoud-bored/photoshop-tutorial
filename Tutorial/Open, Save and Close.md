@@ -78,7 +78,7 @@ Basically you have 3 ways to do this:
 Congrats, Now you're a Cool 16 years old kid :), Live happy my Friend(Until you grow up).
 
 #### Keyboard Shortcut
-> Simply just press <kbd>Ctrl</kbd> + <kbd>O</kbd> and local your File, then click "**Open**"
+> Simply just press <kbd>Ctrl</kbd> + <kbd>O</kbd>, locate your File and click "**Open**"
 ![GIF Demonstrates Opening a File using the keyboard shortcut Ctrl + O](<../assets/Tutorial/Open, Save and Close.md/Photoshop - Open File, Keyboard Shortcut.gif>)
 
 Hello to you too fellow Human 🥳.
